@@ -1,0 +1,83 @@
+;FFMETADATA1
+title=Solve Everything
+artist=Alexander Wissner-Gross and Peter Diamandis
+album=Solve Everything (Audiobook)
+composer=Diana (AI Narrator)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=13000
+title=Introduction
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13000
+END=148000
+title=A Note from Diana
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=148000
+END=924000
+title=Prologue: Three Futures
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=924000
+END=2025000
+title=Chapter 1: The War on Scarcity
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2025000
+END=2585000
+title=Chapter 2: The Thesis
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2585000
+END=3533000
+title=Chapter 3: The Mechanics
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3533000
+END=4805000
+title=Chapter 4: The Lock-In
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4805000
+END=6131000
+title=Chapter 5: The Mobilization
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6131000
+END=7434000
+title=Chapter 6: The Engine
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7434000
+END=10013000
+title=Chapter 7: The Moonshots
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10013000
+END=11200000
+title=Chapter 8: The Muddle vs. The Machine
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11200000
+END=12038000
+title=Chapter 9: Build the Rails
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12038000
+END=12121000
+title=Epilogue: The Quiet Hum

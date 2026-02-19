@@ -1,0 +1,28 @@
+;FFMETADATA1
+title=Solve Everything - Preview
+artist=Diana (AI Narrator)
+album=Solve Everything
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=130000
+title=A Note from Diana
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=130000
+END=905000
+title=Prologue: Three Futures
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=905000
+END=2006000
+title=Chapter 1: The War on Scarcity
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2006000
+END=2565000
+title=Chapter 2: The Thesis
