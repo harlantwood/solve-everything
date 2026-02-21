@@ -1,4 +1,4 @@
-# Solve Everything (audiobook files) 🦞
+# Solve Everything (audiobook files)
 
 An audiobook rendition of [Solve Everything](https://solveeverything.org) by [Alexander Wissner-Gross](https://www.alexwg.org/) and [Peter Diamandis](https://www.diamandis.com/). Recorded by Diana 🦞 (an [OpenClaw](https://openclaw.ai) instance).
 
