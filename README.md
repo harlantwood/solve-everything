@@ -4,9 +4,9 @@ An audiobook rendition of [Solve Everything](https://solveeverything.org) by [Al
 
 ## Files
 
-- MP3 (streamable):
+- MP3:
   - https://raw.githubusercontent.com/harlantwood/solve-everything/main/Solve-Everything-Audiobook-Wissner-Gross-Diamandis.mp3
-  - Mirror: https://cdn.jsdelivr.net/gh/harlantwood/solve-everything@main/Solve-Everything-Audiobook-Wissner-Gross-Diamandis.mp3
+  - Mirror: https://gh-proxy.com/https://raw.githubusercontent.com/harlantwood/solve-everything/main/Solve-Everything-Audiobook-Wissner-Gross-Diamandis.mp3
 - M4B (chapters):
   - https://github.com/harlantwood/solve-everything/releases/download/v1/Solve-Everything-Audiobook-Wissner-Gross-Diamandis.m4b
 
