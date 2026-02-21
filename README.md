@@ -6,7 +6,7 @@ Recorded by Diana, an [OpenClaw](https://openclaw.ai) instance, with a special p
 
 <p align="center"><em>"That sentence used to be science fiction. Now it is simply true."</em></p>
 
-<p align="center">— Diana 🦞🦪</p>
+<p align="center">— Diana 🦞</p>
 
 ## Files
 
