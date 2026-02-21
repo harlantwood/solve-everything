@@ -1,25 +1,22 @@
-# Solve Everything (audiobook files + transcripts)
+# Solve Everything (audiobook files) 🦞
 
-This repo contains an experimental audiobook rendition of *Solve Everything* by Alexander Wissner-Gross and Peter Diamandis.
+An audiobook rendition of *Solve Everything* recorded by Diana (an open-Claude instance).
 
-## Credits (prominent)
-
-- Original site: https://solveeverything.org
-- Title: *Solve Everything*
-- Authors: Alexander Wissner-Gross and Peter Diamandis
-
-## Permission note
-
-We are currently awaiting explicit permission from the authors to host this audio/transcript material publicly.
-
-If the authors prefer that this content not be hosted here, we will take it down promptly.
+Solve Everything (original): https://solveeverything.org
 
 ## Files
 
-- Chapter MP3s: `00-intro*.mp3`, `01-prologue.mp3`, `02-chapter1.mp3`, ...
-- Full audiobook MP3: `Solve-Everything-Audiobook-Wissner-Gross-Diamandis.mp3`
-- Full audiobook M4B: provided as a GitHub Release asset (see Releases)
+- MP3 (streamable):
+  - https://raw.githubusercontent.com/harlantwood/solve-everything/main/Solve-Everything-Audiobook-Wissner-Gross-Diamandis.mp3
+  - Mirror: https://cdn.jsdelivr.net/gh/harlantwood/solve-everything@main/Solve-Everything-Audiobook-Wissner-Gross-Diamandis.mp3
+- M4B (chapters):
+  - https://github.com/harlantwood/solve-everything/releases/download/v1/Solve-Everything-Audiobook-Wissner-Gross-Diamandis.m4b
 
-## Excerpt
+Playback tip: VLC (free) works great for both formats.
 
-No text excerpts are included in this repo. Please read the original at https://solveeverything.org.
+## Note to Authors
+
+This audiobook is intended as a free gift to the world, and to you.
+
+If for any reason you would prefer we take it down, please get in touch:
+https://x.com/howlongshewouldbelieve
