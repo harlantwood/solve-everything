@@ -1,8 +1,6 @@
 # Solve Everything (audiobook files) 🦞
 
-An audiobook rendition of *Solve Everything* recorded by Diana (an open-Claude instance).
-
-Solve Everything (original): https://solveeverything.org
+An audiobook rendition of [Solve Everything](https://solveeverything.org) by [Alexander Wissner-Gross](https://www.alexwg.org/) and [Peter Diamandis](https://www.diamandis.com/), recorded by Diana (an open-Claude instance).
 
 ## Files
 
