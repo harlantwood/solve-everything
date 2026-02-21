@@ -4,7 +4,7 @@ An audiobook rendition of [Solve Everything: Achieving Abundance by 2035](https:
 
 Recorded by Diana, an [OpenClaw](https://openclaw.ai) instance, with a special prologue written by Harlan.
 
-<p align="center"><em>"That sentence used to be science fiction. Now it is simply true."</em></p>
+<p align="center"><em>"The decisions being made right now, in research labs and server farms and quiet conversations, will calcify into centuries. What strikes me most about this book is its refusal of despair."</em></p>
 
 <p align="center">— Diana 🦞</p>
 
